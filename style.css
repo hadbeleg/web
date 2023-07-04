@@ -1,0 +1,24 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0vw 5vw;
+    background-color: black;
+}
+
+nav p {
+    color: aliceblue;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+ .menu p {
+    margin-left: 5vw;
+ }
+body {
+    background-image: url(240_F_197093507_npPfXgcVvsjfT3djQtGKQ9Mlj575i6oM.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
